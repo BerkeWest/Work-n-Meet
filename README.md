@@ -1,5 +1,7 @@
-# Update
+Welcome to the Work'n Meet!
 
-After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
+When you clone/download the app, you need to install the node modules. 
 
-[Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
+Run "npm install" in the terminal to install the node modules.
+
+To start the app, run "npm start" in the terminal.
