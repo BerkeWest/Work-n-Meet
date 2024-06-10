@@ -10,4 +10,4 @@ App is a work in progress.
 
 You can see its matching system from [here](https://github.com/BerkeWest/WnM-Matching-Algorithm).
 
-You can the dataset we generated for this app from [here](https://github.com/BerkeWest/WnM-DB-Generator).
+You can see the dataset we generated for this app from [here](https://github.com/BerkeWest/WnM-DB-Generator).
