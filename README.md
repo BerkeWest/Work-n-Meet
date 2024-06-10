@@ -8,6 +8,8 @@ To start the app, run "npm start" in the terminal.
 
 App is a work in progress. 
 
-You can see its matching system from [here](https://github.com/BerkeWest/WnM-Matching-Algorithm).
+[Work 'n Meet Database Generator ](https://github.com/BerkeWest/WnM-DB-Generator).
 
-You can see the dataset we generated for this app from [here](https://github.com/BerkeWest/WnM-DB-Generator).
+[Work 'n Meet Matching Algorithm](https://github.com/BerkeWest/WnM-Matching-Algorithm)
+
+[Work 'n Meet Backend](https://github.com/BerkeWest/wnm_backend)
